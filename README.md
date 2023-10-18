@@ -16,3 +16,5 @@ Bienvenue!👩🏻‍💻
     <img src="[https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui)" />
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
