@@ -10,11 +10,4 @@ Since August, 2023 I am also a student at 42 school. I am passionate about learn
 
 Bienvenue!👩🏻‍💻
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui)" />
-  </a>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My tech stack](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui)](https://skillicons.dev)
