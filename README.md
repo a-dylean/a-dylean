@@ -9,3 +9,9 @@ As of now, I am mostly focused on building web apps using TypeScript and React f
 Since August, 2023 I am also a student at 42 school. I am passionate about learning new technologies and pushing my own limits.
 
 Bienvenue!👩🏻‍💻
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nextjs,materialui)" />
+  </a>
+</p>
