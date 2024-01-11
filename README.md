@@ -1,5 +1,7 @@
 Hey there 👋
 
+[![atonkopi's 42 stats](https://badge.mediaplus.ma/greenbinary/atonkopi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 My name is Alisa Tonkopiy, and I'm a self-taught software developer currently based in 🗼🥐 Paris, France.
 
 After working for 3+ years in business consulting services I decided to make a career switch and since May, 2022 I am on my way to become a Full-stack engineer.
