@@ -1,6 +1,6 @@
 Hey there 👋
 
-[![atonkopi's 42 stats](https://badge.mediaplus.ma/greenbinary/atonkopi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![atonkopi's 42 stats](https://badge.nimon.fr/api/v2/clzzx51dx743501rskt28f5ex/stats?cursusId=21&coalitionId=45)](https://github.com/Nimon77/badge42)
 
 My name is Alisa Tonkopiy and since November, 2023 I am a student at 42 school based in 🗼🥐 Paris, France.
 
